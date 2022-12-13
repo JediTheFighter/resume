@@ -2,6 +2,8 @@
 body {
     color: #40514E;
     text-align: center;
+    max-width: 100%;
+    overflow-x: hidden;
     font-family: 'Merriweather', serif;
     color: #40514E;
 }
