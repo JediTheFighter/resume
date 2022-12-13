@@ -69,15 +69,15 @@ hr {
 
 .top-cloud {
     position: absolute;
-    right: 300px;
-    top: 50px;
+    right: 18.75rem;
+    top: 3.125rem;
 }
 
 
 .bottom-cloud {
     position: absolute;
-    left: 300px;
-    bottom: 300px;
+    left: 18.75rem;
+    bottom: 18.75rem;
 }
 
 .skills {
